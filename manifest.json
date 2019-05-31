@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Insider Dev Tour",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://idt19.azurewebsites.net/",
+    "short_name": "IDT PWA",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/8c00daa8-1469-bce7-288a-1b5841f0d04d.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/dfe59e43-eb60-e2da-5d58-e07f3790110d.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/decdce89-9fca-e721-f030-e38b4e3d4d22.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7baf16a1-9595-1ed7-794f-7c55c78898dc.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a9d28f3c-d582-b168-1a48-7eb9a3e3a52a.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e222a77b-a30d-7d69-9fa3-fd040664e597.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/60ffe49f-6b62-6cdd-8c51-c1a7ff5d7f03.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/84514355-9945-d13f-b11f-b24921d72a76.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5a7a3ed7-5acb-20aa-1553-c40ec087741f.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/665a34bc-4bda-5748-7a5d-8f2d3c9ab2d2.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8acb4e52-6b81-014b-918f-1f6a4e358d00.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7ecabb10-bfa7-4692-9fa0-09756e5847a2.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/68873b89-b0b6-59a4-6d34-af2b42afea58.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/217360a9-a0a7-ee26-a064-810f3695c93c.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/288a5d0c-4774-0e75-7e3f-fc70b6691dd3.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/dfd8e4f9-2c72-5986-4cb9-4299abd77d07.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a711ca8a-8611-ad9d-337b-ecbe6ba1d458.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a26522d0-1868-bf8d-406f-fd08bc8b8a91.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/cc8ebb84-1750-ca1e-de77-f110dbebe7a4.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
