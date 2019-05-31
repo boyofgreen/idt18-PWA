@@ -6,10 +6,10 @@
     "display": "browser",
     "start_url": "/index2.html",
     "short_name": "IDT PWA",
-    "theme_color": "transparent",
+    "theme_color": "#235689",
     "description": "",
     "orientation": "standalone",
-    "background_color": "transparent",
+    "background_color": "#235689",
     "related_applications": [],
     "prefer_related_applications": false,
     "icons": [
