@@ -4,7 +4,7 @@
     "name": "Insider Dev Tour",
     "scope": "/",
     "display": "browser",
-    "start_url": "/index2.html",
+    "start_url": "/index3.html",
     "short_name": "IDT PWA",
     "theme_color": "#235689",
     "description": "",
